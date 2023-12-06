@@ -6,7 +6,7 @@
     "display": "fullscreen",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/git-Gdynia/",
+    "start_url": "/git_Gdynia/",
     "icons": [
         {
             "src": "./icon.png",
